@@ -10,7 +10,7 @@
 
 
 ## Description :
-This project is a website clone of the popular music streaming platform Spotify. It utilizes HTML to structure the content, CSS to style the layout and elements.
+This project is a website clone of the popular music streaming platform Spotify . It utilizes HTML to structure the content, CSS to style the layout and elements.
 ### Preview Link : (https://github.com/iftekharansari2003/Spotify_clone)
 ## Tech - Used
 
