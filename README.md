@@ -39,7 +39,7 @@ just submit a Pull-Request to this repo and it will be deployed once it's accept
 
 ## Show your support
 
-We love people's support to grow, improve and give the best. Be sure to drop a 🌟 if you like the project,
+We love people's support to grow, improve and give the best. Be sure to drop a star if you like the project,
 and also contribute, if you're interested!
 
 
